@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://saidur.vercel.app/sitemap.xml
+Sitemap: https://saidur-site.vercel.app/sitemap.xml
