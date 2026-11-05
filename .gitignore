@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# editor / tooling
+.vscode/
+.idea/
+
+# agent scratch that must never be published
+.freebuff/
+shots/
+
+# never commit client data from the lead lists
+*.xlsx
+*.csv
