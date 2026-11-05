@@ -13,3 +13,5 @@ shots/
 # never commit client data from the lead lists
 *.xlsx
 *.csv
+.vercel
+.env*
